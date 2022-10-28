@@ -7,6 +7,10 @@ usercmd = False
 print('Hi, %s.' % name)
 print('This is what the program has to say about you:')
 print(' ')
+if name == ('Kabelo'):
+  print('A boy with an entire ecosystem living in his hair')
+if name == ('Luc'):
+  print('A kind hearted and quiet boy')
 if name == ('Layla'):
   print('Her favourite saying is: I will fight you!')
 if name == ('Tristan Cremer'):
@@ -31,8 +35,3 @@ if name == ('1960') :
     
 
 
-
-
-#Command List
-#1 = Namelist command; Lists names of all users
-#2 = View user message command; Self explanatory
