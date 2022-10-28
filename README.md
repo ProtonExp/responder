@@ -14,3 +14,8 @@ request. Anyone who does not create a pull request will be banned and have there
 
 if name == ('name_of_person'):
   print('decription_of_person')
+  
+  # Changelog
+  
+  Bugfix 0.1.6.1:
+ This patch fixes a bug where you get an error message (User does not exist) even if user does exist
