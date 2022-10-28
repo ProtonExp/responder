@@ -8,7 +8,7 @@ print('Hi, %s.' % name)
 print('This is what the program has to say about you:')
 print(' ')
 if name == ('Emily'):
-  print('Smart and kind')
+  print('Smart and really stares into your soul')
 if name == ('Zizi'):
   print('Bear')
 if name == ('Owenkosi'):
@@ -26,13 +26,12 @@ if name == ('Luc'):
 if name == ('Layla'): #Edited for safety reasons
   print('Her favourite saying is: I will fight you!')
 if name == ('Tristan Cremer'):
-  print('Your the guy who coded this :)')
+  print('The overweight guy who coded this :)')
 if name == ('Mpumelelo'):
-  print('A guy who likes pixel starships')
+  print('A guy who is nice, (and also helped code this)') 
 if name == ('1960') :
   print('Devoper Commands Loaded')
   print('You can now run developer commands')
-  print('You can run x different commands')
   
   cmdmenu = input('Command id\n')
   if cmdmenu == ('1') :
@@ -54,3 +53,5 @@ if name == ('1960') :
     
 
 
+#Version 0.1.4
+#By Tristan And Mpumelelo
