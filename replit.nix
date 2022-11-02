@@ -1,5 +1,6 @@
 { pkgs }: {
   deps = [
+    pkgs.nmap_graphical
     pkgs.python38Full
   ];
   env = {
